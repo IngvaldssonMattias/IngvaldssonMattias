@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Developer<br><br>I'm a Fullstack Developer student specializing in JavaScript. During my studies, I have gained experience in both frontend and backend development, working with modern technologies, REST APIs, databases, testing, security, and API integrations.<br><br>
+Fullstack Developer<br><br>I'm a Fullstack Developer student specializing in JavaScript. During my studies, I have gained experience in both frontend and backend development, working with modern technologies, REST APIs, CRUD, databases, testing, security, and API integrations.<br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="vertical-align: middle;"/> - HTML<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="vertical-align: middle;"/> - CSS<br>
