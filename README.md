@@ -1,5 +1,13 @@
 # 💫 About Me:
-Fullstack Developer<br><br>I'm a Fullstack Developer student specializing in JavaScript. During my studies, I have gained experience in both frontend and backend development, working with modern technologies, REST APIs, databases, testing, security, and API integrations.<br><br>Technologies<br>● HTML<br>● CSS<br>● JavaScript<br>● TypeScript<br>● React<br>● Node.js<br>● Express<br>● MongoDB
+Fullstack Developer<br><br>I'm a Fullstack Developer student specializing in JavaScript. During my studies, I have gained experience in both frontend and backend development, working with modern technologies, REST APIs, databases, testing, security, and API integrations.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/> TypeScript<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> React<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> Node.js<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="25"/> Express<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB
 
 
 ## 🌐 Socials:
