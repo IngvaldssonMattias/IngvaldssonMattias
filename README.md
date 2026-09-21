@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Developer<br><br>I'm a Fullstack Developer student specializing in JavaScript. During my studies, I have gained experience in both frontend and backend development, working with modern technologies, REST APIs, databases, testing, security, and API integrations.<br><br>Technologies<br>HTML<br>CSS<br>JavaScript<br>TypeScript<br>React<br>Node.js<br>Express<br>MongoDB
+Fullstack Developer<br><br>I'm a Fullstack Developer student specializing in JavaScript. During my studies, I have gained experience in both frontend and backend development, working with modern technologies, REST APIs, databases, testing, security, and API integrations.<br><br>Technologies<br>● HTML<br>● CSS<br>● JavaScript<br>● TypeScript<br>● React<br>● Node.js<br>● Express<br>● MongoDB
 
 
 ## 🌐 Socials:
